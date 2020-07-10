@@ -1,1 +1,1 @@
-![suratlkorsi](https://imgur.com/IJoUAdu)
+![suratlkorsi](https://i.imgur.com/IJoUAdu.png)
