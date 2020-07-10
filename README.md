@@ -1,3 +1,3 @@
  <p align="center">
-![suratlkorsi](https://i.imgur.com/IJoUAdu.png)
+   <img src="https://i.imgur.com/IJoUAdu.png" width=420>
 </p>
